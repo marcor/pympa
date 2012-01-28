@@ -1,0 +1,7 @@
+This project was originally hosted on [Savannah](http://savannah.nongnu.org/projects/pympa/ "pympa project on Savannah"). So cute! :)
+
+Pympa aims to provide a simple yet useful library for manipulating MPEG audio files and streams.
+
+You can use Pympa for scanning frame headers, reading and modifying Id31.1 tags, or simply splitting audio files. Pympa supports every MPEG audio version and layer, and can deal with variable bitrate files (though only the Xing header format is supported at the moment). Please note that NO support for encoding/decoding audio data is or will ever be provided.
+
+A portable wxPython-based GUI is included in the project: you'll only have to install the <a href="http://www.wxpython.org"> wxPython libraries </a> if you want to use it.
